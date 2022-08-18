@@ -46,3 +46,8 @@ y una operaciones para saber si las contrasenas existen junto con el usuario en 
 4- Cree 2 JFrame para que te muestre un mensaje depediendo de tu usuario de login te llevara a la ventana respectiva.
 
 Use sql server 2019 y neatbeans 14.0
+
+Trate de hacer lo mejor en base a mis conocimientos, ya que no tengo experencia como programador solo he realizados las 
+praticas que me dan los profesores y las tareas que me dejan que son basada en un nivel de principiantes, solo he visto 
+3 materias respecto a programacion en menos de 2 anos que llevo estudiando en el itla(Instituto Tecnologico de la america). 
+Hay cosas que no me lan han explicado y que no domino del todo por falta de experencia y pratica.
